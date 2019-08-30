@@ -10,7 +10,7 @@ Some stuff that's in the engine.
 
 enum CPU_Renderer
 {
-	3D_Space,
+	3D_Space,\n
 	Subpixel_Accuracy,
 	Alpha,
 	2D_BMP_Sprites,
