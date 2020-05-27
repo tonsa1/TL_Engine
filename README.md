@@ -18,7 +18,6 @@ Rectangles,
 Scalable_Sizes,
 Rotations,
 AVX256_Optimization,
-UI_Text, // Under Construction
 
 Engine:
 Entities,
