@@ -8,31 +8,27 @@ Engine's build might not always work.
 
 Some stuff that's in the engine.
 
-enum CPU_Renderer
-{
-	3D_Space,
-	Subpixel_Accuracy,
-	Alpha,
-	2D_BMP_Sprites,
-	Lines,
-	Rectangles,
-	Scalable_Sizes,
-	Rotations,
-	AVX256_Optimization,
-	UI_Text, // Under Construction
-};
+CPU_Renderer:
+3D_Space,
+Subpixel_Accuracy,
+Alpha,
+2D_BMP_Sprites,
+Lines,
+Rectangles,
+Scalable_Sizes,
+Rotations,
+AVX256_Optimization,
+UI_Text, // Under Construction
 
-enum Engine
-{
-	Entities,
-	Vertex_Collision,
-	Physics,
-	Live_Code_Editing,
-	Game_Record_And_Replay,
-	Hash_Chunk_World,
-	Locked_And_Unlocked_FPS,
-	Vectors,
-	Multithreading,
-};
+Engine:
+Entities,
+Vertex_Collision,
+Physics,
+Live_Code_Editing,
+Game_Record_And_Replay,
+Hash_Chunk_World,
+Locked_And_Unlocked_FPS,
+Vectors,
+Multithreading,
 
 
